@@ -1,0 +1,49 @@
+[{
+    "id": "S01",
+    "name": "Persona",
+    "genre": "JRPG",
+    "amountOfGames": 15,
+    "smallDescription": "The Persona franchise, developed by Atlus, is a critically acclaimed series of Japanese role-playing games that blend traditional turn-based combat with social simulation and deep psychological storytelling. Set primarily in modern Japan, each entry follows a group of high school students who harness supernatural powers known as “Personas” — manifestations of their inner selves — to battle mysterious forces that threaten society and the human psyche. The series is known for its stylish art direction, jazzy soundtracks, and themes exploring identity, self-discovery, and the struggle between reality and the subconscious. By combining daily life management, character relationships, and dungeon crawling, Persona has become one of the most beloved and influential RPG franchises in gaming."
+}, 
+{
+    "id": "S02",
+    "name": "Story of Seasons",
+    "genre": "Life Simulator",
+    "amountOfGames": 35,
+    "smallDescription": "The Story of Seasons series is a beloved life and farming simulation franchise where players manage a farm, cultivate crops, raise animals, and engage with a vibrant town full of characters. Originating from the Harvest Moon series, the games emphasize daily life management, seasonal cycles, and community building, often including festivals, marriage, and family-raising mechanics. Each entry blends relaxing farm work with social interactions, crafting, and trade, creating a balance between routine and discovery. Known for its charming art style, wholesome storytelling, and open-ended gameplay, the series encourages creativity, strategy, and relationship-building, making it a cornerstone of modern farming simulation games."
+},
+{
+    "id": "S03",
+    "name": "The Legend of Zelda",
+    "genre": "Adventure",
+    "amountOfGames": 30,
+    "smallDescription": "The Legend of Zelda series is a legendary action-adventure franchise developed by Nintendo, renowned for its blend of exploration, puzzle-solving, and epic storytelling. Centered around the heroic Link, the courageous Princess Zelda, and the recurring villain Ganon, the games take players across sprawling, fantastical worlds filled with dungeons, treasures, and secrets. The series combines combat, intricate puzzles, and open-world exploration with rich lore and recurring themes of courage, wisdom, and power. Known for its innovation, memorable music, and iconic gameplay mechanics, Zelda has become a cornerstone of gaming, inspiring generations of players with its timeless blend of adventure, discovery, and heroism."
+},
+{
+    "id":"S04",
+    "name": "Kingdom Hearts",
+    "genre": "Action RPG",
+    "amountOfGames": 13,
+    "smallDescription": "The Kingdom Hearts series is a long-running action role-playing franchise developed by Square Enix in collaboration with Disney, known for its emotional storytelling, real-time combat, and crossover of beloved worlds. It follows Sora, a cheerful and determined boy chosen by the mystical Keyblade, as he travels through various Disney and original realms alongside Donald Duck and Goofy to battle the forces of darkness led by Xehanort and other shadowy figures. Blending characters and settings from Final Fantasy and Disney with its own deep, often complex lore, the series explores themes of friendship, light versus darkness, and the bonds that connect hearts. With its cinematic storytelling, heartfelt moments, and memorable soundtrack by Yoko Shimomura, Kingdom Hearts has become one of the most unique and beloved RPG sagas in gaming history."
+},
+{
+    "id": "S05",
+    "name": "Pokemon",
+    "genre": "RPG",
+    "amountOfGames": 122,
+    "smallDescription": "The Pokémon series is a globally beloved franchise developed by Game Freak and published by Nintendo, centered around capturing, training, and battling fantastical creatures called Pokémon. Players take on the role of Pokémon Trainers, traveling across diverse regions to earn Gym Badges, complete the Pokédex, and challenge the Pokémon League. Blending exploration, strategy, and friendship, the games emphasize teamwork and discovery while featuring hundreds of unique Pokémon species."
+},
+{
+    "id": "S06",
+    "name": "Fire Emblem",
+    "genre": "Tactical RPG",
+    "amountOfGames": 18,
+    "smallDescription": "The Fire Emblem series is a long-running tactical role-playing game franchise developed by Intelligent Systems and published by Nintendo. Known for its strategic, turn-based combat on grid-based maps, the games emphasize careful planning, unit positioning, and character relationships. Players recruit and train a cast of diverse heroes, each with unique classes, abilities, and backstories, while navigating branching storylines full of political intrigue, war, and personal drama. A signature feature of the series is permanent death for units in most games, adding emotional weight to battles and decisions. Combining deep strategy, rich storytelling, and character-driven drama, Fire Emblem has become a cornerstone of tactical RPGs."
+},
+{
+    "id": "S07",
+    "name": "Animal Crossing",
+    "genre": "Life Simulator",
+    "amountOfGames": 5,
+    "smallDescription": "The Animal Crossing series is a life simulation franchise developed by Nintendo, centered around living in a village inhabited by anthropomorphic animals. Players take on the role of a human character, engaging in activities like fishing, bug catching, fossil hunting, gardening, decorating, and building relationships with villagers. The games run in real time, reflecting seasons, holidays, and daily routines, creating a relaxing and immersive experience. Known for its open-ended gameplay, charm, and whimsical social interactions, Animal Crossing encourages creativity, community-building, and a cozy, stress-free escape from everyday life."
+}]

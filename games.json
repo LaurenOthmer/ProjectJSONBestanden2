@@ -1,0 +1,180 @@
+[{
+    "id": "G01",
+    "gameName": "Persona 5 Royal",
+    "description": "Persona 5 Royal is an enhanced and expanded version of the acclaimed Japanese role-playing game Persona 5, developed by Atlus. It follows the story of the Phantom Thieves, a group of high school students in Tokyo who awaken to mysterious powers that allow them to enter a supernatural realm called the Metaverse. There, they confront corrupt adults by stealing their distorted desires and inspiring real-world change. The Royal edition introduces new characters, a fresh school semester, additional storylines, new locations, gameplay improvements, and stylish visual upgrades. Blending turn-based combat, life simulation, and social storytelling, Persona 5 Royal delivers a rich, emotionally charged experience about rebellion, identity, and the struggle for freedom.",
+    "howManyHoursToBeat": 124,
+    "remake": false,
+    "releaseDate": "2020-03-31",
+    "ImgUrl": "",
+    "mainConsole": "Playstation",
+    "importantCharacters": ["Ryuji Sakamoto", "Ann Takamaki", "Morgana", "Yusuke Kitagawa", "Makoto Nijima", "Futaba Sakura", "Haru Okumura", "Goro Akechi", "Kasumi Yoshizawa"],
+    "series": {
+        "id": "S01",
+        "name": "Persona",
+        "genre": "JRPG",
+        "amountOfGames": 15,
+        "smallDescription": "The Persona franchise, developed by Atlus, is a critically acclaimed series of Japanese role-playing games that blend traditional turn-based combat with social simulation and deep psychological storytelling. Set primarily in modern Japan, each entry follows a group of high school students who harness supernatural powers known as “Personas” — manifestations of their inner selves — to battle mysterious forces that threaten society and the human psyche. The series is known for its stylish art direction, jazzy soundtracks, and themes exploring identity, self-discovery, and the struggle between reality and the subconscious. By combining daily life management, character relationships, and dungeon crawling, Persona has become one of the most beloved and influential RPG franchises in gaming."
+    }
+},
+{
+    "id": "G02",
+    "gameName": "Story of Seasons: Grand Bazaar",
+    "description": "Story of Seasons: Grand Bazaar is a charming farming and life simulation game developed by Marvelous and part of the long-running Story of Seasons (formerly Harvest Moon) series. Set in the quaint European-inspired town of Zephyr, the game follows a young farmer who arrives to help revive the town’s once-thriving bazaar, now struggling to attract visitors. Players grow crops, raise animals, craft goods, and sell their products at weekly market events to build their reputation and restore the community’s prosperity. Alongside managing the farm, players can befriend townsfolk, participate in festivals, and even find love. With its emphasis on trade, creativity, and community spirit, Grand Bazaar offers a lighthearted and rewarding rural life experience.",
+    "howManyHoursToBeat": 61,
+    "remake": true,
+    "releaseDate": "2025-08-27",
+    "ImgUrl": "",
+    "mainConsole": "Switch",
+    "importantCharacters": ["Felix", "Gabriel", "Samir", "June", "Diana", "Maple", "Arata", "Kagetsu"],
+    "series": {
+        "id": "S02",
+        "name": "Story of Seasons",
+        "genre": "Life Simulator",
+        "amountOfGames": 35,
+        "smallDescription": "The Story of Seasons series is a beloved life and farming simulation franchise where players manage a farm, cultivate crops, raise animals, and engage with a vibrant town full of characters. Originating from the Harvest Moon series, the games emphasize daily life management, seasonal cycles, and community building, often including festivals, marriage, and family-raising mechanics. Each entry blends relaxing farm work with social interactions, crafting, and trade, creating a balance between routine and discovery. Known for its charming art style, wholesome storytelling, and open-ended gameplay, the series encourages creativity, strategy, and relationship-building, making it a cornerstone of modern farming simulation games."
+    }
+},
+{
+    "id": "G03",
+    "gameName": "the Legend of Zelda: Breath of the Wild",
+    "description": "The Legend of Zelda: Breath of the Wild is an open-world action-adventure game developed by Nintendo, redefining the iconic Zelda franchise with unprecedented freedom and exploration. Players control Link, who awakens from a century-long slumber to a ruined Hyrule, tasked with defeating Calamity Ganon and restoring peace to the kingdom. The game emphasizes emergent gameplay, allowing players to climb mountains, glide across landscapes, solve intricate puzzles in shrines, and experiment with physics-based combat and environmental interactions. With its vast, dynamic world, minimal hand-holding, and breathtaking art style, Breath of the Wild delivers a deeply immersive experience that rewards curiosity, creativity, and strategic thinking, earning widespread acclaim as one of the greatest video games of all time.",
+    "howManyHoursToBeat": 85,
+    "remake": false,
+    "releaseDate": "2017-03-05",
+    "ImgUrl": "",
+    "mainConsole": "Switch",
+    "importantCharacters": ["princess Zelda", "king Roam", "Link", "Impa", "Calamity Ganon", "Great Deku Tree"], 
+    "series":{
+        "id": "S03",
+        "name": "The Legend of Zelda",
+        "genre": "Adventure",
+        "amountOfGames": 30,
+        "smallDescription": "The Legend of Zelda series is a legendary action-adventure franchise developed by Nintendo, renowned for its blend of exploration, puzzle-solving, and epic storytelling. Centered around the heroic Link, the courageous Princess Zelda, and the recurring villain Ganon, the games take players across sprawling, fantastical worlds filled with dungeons, treasures, and secrets. The series combines combat, intricate puzzles, and open-world exploration with rich lore and recurring themes of courage, wisdom, and power. Known for its innovation, memorable music, and iconic gameplay mechanics, Zelda has become a cornerstone of gaming, inspiring generations of players with its timeless blend of adventure, discovery, and heroism."
+}
+},
+{
+    "id": "G04",
+    "gameName": "Persona 4 golden",
+    "description": "Persona 4 Golden is an enhanced version of the acclaimed JRPG Persona 4, developed by Atlus. Set in the quiet rural town of Inaba, the story follows a group of high school students who investigate a series of mysterious murders linked to a supernatural world inside television screens. Balancing everyday life—attending school, forming friendships, and building social links—with dungeon-crawling battles against manifestations of the human psyche, the game explores themes of truth, identity, and self-acceptance. Persona 4 Golden expands the original with new characters, events, and storylines, offering a richer and more emotionally resonant experience wrapped in its signature stylish visuals, upbeat soundtrack, and heartfelt storytelling.",
+    "howManyHoursToBeat": 70,
+    "remake": false,
+    "releaseDate": "2013-02-22",
+    "ImgUrl": "",
+    "mainConsole": "Switch",
+    "importantCharacters": ["Yosuke Hanamura", "Chie Satonake", "Yukiko Amagi", "Kanji Tatsumi", "Naoto Shirugane", "Marie", "Teddie", "Rise Kujikawa"],
+    "series":{
+        "id": "S01",
+        "name": "Persona",
+        "genre": "JRPG",
+        "amountOfGames": 15,
+        "smallDescription": "The Persona franchise, developed by Atlus, is a critically acclaimed series of Japanese role-playing games that blend traditional turn-based combat with social simulation and deep psychological storytelling. Set primarily in modern Japan, each entry follows a group of high school students who harness supernatural powers known as “Personas” — manifestations of their inner selves — to battle mysterious forces that threaten society and the human psyche. The series is known for its stylish art direction, jazzy soundtracks, and themes exploring identity, self-discovery, and the struggle between reality and the subconscious. By combining daily life management, character relationships, and dungeon crawling, Persona has become one of the most beloved and influential RPG franchises in gaming."
+    }
+},
+{
+    "id": "G05",
+    "gameName": "Kingdom Hearts HD 1.5 Remix",
+    "description": "Kingdom Hearts is an action role-playing game developed by Square Enix in collaboration with Disney, blending the worlds of both companies into a unique and heartfelt adventure. The story follows Sora, a cheerful boy whose home world is destroyed by dark creatures known as the Heartless. Armed with the mystical Keyblade, Sora sets out across a variety of Disney-inspired worlds alongside Donald Duck and Goofy to find his missing friends and stop the spread of darkness. Along the way, he encounters beloved Disney characters and faces off against iconic villains, all while uncovering a deeper mystery involving hearts, light, and friendship. With its emotional storytelling, real-time combat, and enchanting mix of Disney magic and Square Enix style, Kingdom Hearts became a defining crossover and the beginning of an enduring, complex saga.",
+    "howManyHoursToBeat": 30,
+    "remake": true,
+    "releaseDate": "2013-09-13",
+    "ImgUrl": "",
+    "mainConsole": "PC",
+    "importantCharacters":["Sora", "Kairi", "Riku", "King Mickey", "Goofy", "Donald Duck", "Malificent", "Leon"],
+    "series": {
+        "id":"S04",
+        "name": "Kingdom Hearts",
+        "genre": "Action RPG",
+        "amountOfGames": 13,
+        "smallDescription": "The Kingdom Hearts series is a long-running action role-playing franchise developed by Square Enix in collaboration with Disney, known for its emotional storytelling, real-time combat, and crossover of beloved worlds. It follows Sora, a cheerful and determined boy chosen by the mystical Keyblade, as he travels through various Disney and original realms alongside Donald Duck and Goofy to battle the forces of darkness led by Xehanort and other shadowy figures. Blending characters and settings from Final Fantasy and Disney with its own deep, often complex lore, the series explores themes of friendship, light versus darkness, and the bonds that connect hearts. With its cinematic storytelling, heartfelt moments, and memorable soundtrack by Yoko Shimomura, Kingdom Hearts has become one of the most unique and beloved RPG sagas in gaming history."
+    }
+},
+{
+    "id": "G06",
+    "gameName": "Pokémon Emerald",
+    "description": "Pokémon Emerald is an enhanced version of Pokémon Ruby and Sapphire, developed by Game Freak and released for the Game Boy Advance in 2004 (Japan) and 2005 (worldwide). Set in the tropical Hoenn region, players take on the role of a young Pokémon Trainer aiming to become the Pokémon Champion while thwarting the schemes of both Team Magma and Team Aqua, two villainous groups with opposing goals involving the legendary Pokémon Groudon and Kyogre. Emerald expands on its predecessors with new story elements, the addition of Rayquaza as a central figure, the challenging Battle Frontier, and updated double battles and animations. Combining classic exploration, strategic turn-based battles, and a rich variety of Pokémon to catch and train, Pokémon Emerald remains one of the most beloved and complete experiences in the series’ Game Boy Advance era.",
+    "howManyHoursToBeat": 25,
+    "remake": false,
+    "releaseDate": "2005-10-21",
+    "ImgUrl": "",
+    "mainConsole": "3DS",
+    "importantCharacters": ["Brendan", "Professor Birch", "Norman"],
+    "series": {
+        "id": "S05",
+        "name": "Pokemon",
+        "genre": "RPG",
+        "amountOfGames": 122,
+        "smallDescription": "The Pokémon series is a globally beloved franchise developed by Game Freak and published by Nintendo, centered around capturing, training, and battling fantastical creatures called Pokémon. Players take on the role of Pokémon Trainers, traveling across diverse regions to earn Gym Badges, complete the Pokédex, and challenge the Pokémon League. Blending exploration, strategy, and friendship, the games emphasize teamwork and discovery while featuring hundreds of unique Pokémon species."
+    }
+},
+{
+    "id": "G07",
+    "gameName": "the Legend of Zelda: the Minish Cap",
+    "description": "The Legend of Zelda: The Minish Cap is a colorful action-adventure game developed by Capcom and Nintendo for the Game Boy Advance. The story follows Link as he teams up with Ezlo, a magical talking hat, to stop the evil sorcerer Vaati, who has turned Princess Zelda to stone and unleashed chaos across Hyrule. Using Ezlo’s power, Link can shrink down to the size of the tiny Minish people, revealing a hidden miniature world within the familiar landscapes of Hyrule. The game features classic Zelda elements like puzzle-filled dungeons, inventive items such as the Gust Jar and Cane of Pacci, and charming 2D visuals. Blending clever size-based mechanics with heartfelt storytelling, The Minish Cap stands out as one of the most imaginative and beloved handheld entries in the Zelda series.",
+    "howManyHoursToBeat": 20,
+    "remake": false,
+    "releaseDate": "2004-11-12",
+    "ImgUrl": "",
+    "mainConsole": "Switch",
+    "importantCharacters": ["Link", "Zelda", "Ezlo", "Vaati", "Smith"], 
+    "series": {
+        "id": "S03",
+        "name": "The Legend of Zelda",
+        "genre": "Adventure",
+        "amountOfGames": 30,
+        "smallDescription": "The Legend of Zelda series is a legendary action-adventure franchise developed by Nintendo, renowned for its blend of exploration, puzzle-solving, and epic storytelling. Centered around the heroic Link, the courageous Princess Zelda, and the recurring villain Ganon, the games take players across sprawling, fantastical worlds filled with dungeons, treasures, and secrets. The series combines combat, intricate puzzles, and open-world exploration with rich lore and recurring themes of courage, wisdom, and power. Known for its innovation, memorable music, and iconic gameplay mechanics, Zelda has become a cornerstone of gaming, inspiring generations of players with its timeless blend of adventure, discovery, and heroism."
+}
+},
+{
+    "id": "G08",
+    "gameName": "Story of Seasons: Friends of Mineral Town",
+    "description": "Story of Seasons: Friends of Mineral Town is a charming farming simulation game and a remake of the classic Harvest Moon: Friends of Mineral Town. Players take on the role of a young farmer who inherits a run-down farm in the rural town of Mineral Town and must restore it to prosperity. The game combines crop cultivation, animal husbandry, fishing, mining, and seasonal festivals with social interactions, allowing players to befriend townsfolk, participate in events, and even pursue romance and marriage. With its relaxing gameplay loop, colorful graphics, and engaging community-focused mechanics, the game offers a wholesome and immersive rural life experience.",
+    "howManyHoursToBeat": 40,
+    "remake": true,
+    "releaseDate": "2020-07-14",
+    "ImgUrl": "",
+    "mainConsole": "Switch",
+    "importantCharacters": ["Thomas", "Rick", "Popuri", "Karen", "Elli"],
+    "series": {
+        "id": "S02",
+        "name": "Story of Seasons",
+        "genre": "Life Simulator",
+        "amountOfGames": 35,
+        "smallDescription": "The Story of Seasons series is a beloved life and farming simulation franchise where players manage a farm, cultivate crops, raise animals, and engage with a vibrant town full of characters. Originating from the Harvest Moon series, the games emphasize daily life management, seasonal cycles, and community building, often including festivals, marriage, and family-raising mechanics. Each entry blends relaxing farm work with social interactions, crafting, and trade, creating a balance between routine and discovery. Known for its charming art style, wholesome storytelling, and open-ended gameplay, the series encourages creativity, strategy, and relationship-building, making it a cornerstone of modern farming simulation games."
+    }
+},
+{
+    "id": "G09",
+    "gameName": "Fire Emblem: three houses",
+    "description": "Fire Emblem: Three Houses is a tactical role-playing game for the Nintendo Switch that combines deep strategy with rich storytelling. Players take on the role of a professor at the Officer’s Academy in the continent of Fódlan, where they must choose one of three student houses to lead and guide through both academic life and battlefield conflicts. The game blends turn-based tactical combat with life simulation elements, including teaching, mentoring, building relationships, and making critical choices that influence the story. Known for its branching narratives, memorable characters, and complex moral decisions, Three Houses offers a layered and immersive experience where strategy and personal connections are equally important.",
+    "howManyHoursToBeat": 60,
+    "remake": false,
+    "releaseDate": "2019-07-26",
+    "ImgUrl": "",
+    "mainConsole": "Switch",
+    "importantCharacters": ["Ferdinand Von Aegir", "Edelgard von Hresvelg", "Byleth", "Bernadetta von Varley", "Rhea"],
+    "series": {
+        "id": "S06",
+        "name": "Fire Emblem",
+        "genre": "Tactical RPG",
+        "amountOfGames": 18,
+        "smallDescription": "The Fire Emblem series is a long-running tactical role-playing game franchise developed by Intelligent Systems and published by Nintendo. Known for its strategic, turn-based combat on grid-based maps, the games emphasize careful planning, unit positioning, and character relationships. Players recruit and train a cast of diverse heroes, each with unique classes, abilities, and backstories, while navigating branching storylines full of political intrigue, war, and personal drama. A signature feature of the series is permanent death for units in most games, adding emotional weight to battles and decisions. Combining deep strategy, rich storytelling, and character-driven drama, Fire Emblem has become a cornerstone of tactical RPGs."
+    }
+},
+{
+    "id": "G10",
+    "gameName": "Animal Crossing New Horizons",
+    "description": "Animal Crossing: New Horizons is a life simulation game for the Nintendo Switch where players move to a deserted island and build their own community from scratch. Players can gather resources, design and decorate their homes, interact with charming animal villagers, participate in seasonal events, and customize nearly every aspect of island life. The game runs in real time, reflecting the seasons and daily cycles, creating a relaxing and immersive experience. With its open-ended gameplay, creative freedom, and social interactions—both in-person and online—New Horizons offers a cozy and endlessly engaging escape into island life.",
+    "howManyHoursToBeat": 70,
+    "remake": false,
+    "releaseDate": "2020-03-20",
+    "ImgUrl": "",
+    "mainConsole": "Switch",
+    "importantCharacters": ["Tom Nook", "Isabelle", "Timmy", "Tommy", "Mabel", "Sabel", "Gulliver"],
+    "series": {
+        "id": "S07",
+        "name": "Animal Crossing",
+        "genre": "Life Simulator",
+        "amountOfGames": 5,
+        "smallDescription": "The Animal Crossing series is a life simulation franchise developed by Nintendo, centered around living in a village inhabited by anthropomorphic animals. Players take on the role of a human character, engaging in activities like fishing, bug catching, fossil hunting, gardening, decorating, and building relationships with villagers. The games run in real time, reflecting seasons, holidays, and daily routines, creating a relaxing and immersive experience. Known for its open-ended gameplay, charm, and whimsical social interactions, Animal Crossing encourages creativity, community-building, and a cozy, stress-free escape from everyday life."
+    }
+}]
