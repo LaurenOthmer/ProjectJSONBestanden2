@@ -5,7 +5,7 @@
     "howManyHoursToBeat": 124,
     "remake": false,
     "releaseDate": "2020-03-31",
-    "ImgUrl": "",
+    "ImgUrl": "https://github.com/LaurenOthmer/ProjectJSONBestanden2/blob/main/img/P5R.png?raw=true",
     "mainConsole": "Playstation",
     "importantCharacters": ["Ryuji Sakamoto", "Ann Takamaki", "Morgana", "Yusuke Kitagawa", "Makoto Nijima", "Futaba Sakura", "Haru Okumura", "Goro Akechi", "Kasumi Yoshizawa"],
     "series": {
@@ -23,7 +23,7 @@
     "howManyHoursToBeat": 61,
     "remake": true,
     "releaseDate": "2025-08-27",
-    "ImgUrl": "",
+    "ImgUrl": "https://github.com/LaurenOthmer/ProjectJSONBestanden2/blob/main/img/SoSGB.jpg?raw=true",
     "mainConsole": "Switch",
     "importantCharacters": ["Felix", "Gabriel", "Samir", "June", "Diana", "Maple", "Arata", "Kagetsu"],
     "series": {
@@ -41,7 +41,7 @@
     "howManyHoursToBeat": 85,
     "remake": false,
     "releaseDate": "2017-03-05",
-    "ImgUrl": "",
+    "ImgUrl": "https://github.com/LaurenOthmer/ProjectJSONBestanden2/blob/main/img/BotW.png?raw=true",
     "mainConsole": "Switch",
     "importantCharacters": ["princess Zelda", "king Roam", "Link", "Impa", "Calamity Ganon", "Great Deku Tree"], 
     "series":{
@@ -59,7 +59,7 @@
     "howManyHoursToBeat": 70,
     "remake": false,
     "releaseDate": "2013-02-22",
-    "ImgUrl": "",
+    "ImgUrl": "https://github.com/LaurenOthmer/ProjectJSONBestanden2/blob/main/img/P4G.png?raw=true",
     "mainConsole": "Switch",
     "importantCharacters": ["Yosuke Hanamura", "Chie Satonake", "Yukiko Amagi", "Kanji Tatsumi", "Naoto Shirugane", "Marie", "Teddie", "Rise Kujikawa"],
     "series":{
@@ -77,7 +77,7 @@
     "howManyHoursToBeat": 30,
     "remake": true,
     "releaseDate": "2013-09-13",
-    "ImgUrl": "",
+    "ImgUrl": "https://github.com/LaurenOthmer/ProjectJSONBestanden2/blob/main/img/KH1.jpg?raw=true",
     "mainConsole": "PC",
     "importantCharacters":["Sora", "Kairi", "Riku", "King Mickey", "Goofy", "Donald Duck", "Malificent", "Leon"],
     "series": {
@@ -95,7 +95,7 @@
     "howManyHoursToBeat": 25,
     "remake": false,
     "releaseDate": "2005-10-21",
-    "ImgUrl": "",
+    "ImgUrl": "https://github.com/LaurenOthmer/ProjectJSONBestanden2/blob/main/img/Pokemon_Emerald.jpg?raw=true",
     "mainConsole": "3DS",
     "importantCharacters": ["Brendan", "Professor Birch", "Norman"],
     "series": {
@@ -113,7 +113,7 @@
     "howManyHoursToBeat": 20,
     "remake": false,
     "releaseDate": "2004-11-12",
-    "ImgUrl": "",
+    "ImgUrl": "https://github.com/LaurenOthmer/ProjectJSONBestanden2/blob/main/img/Minish_Cap.png?raw=true",
     "mainConsole": "Switch",
     "importantCharacters": ["Link", "Zelda", "Ezlo", "Vaati", "Smith"], 
     "series": {
@@ -131,7 +131,7 @@
     "howManyHoursToBeat": 40,
     "remake": true,
     "releaseDate": "2020-07-14",
-    "ImgUrl": "",
+    "ImgUrl": "https://github.com/LaurenOthmer/ProjectJSONBestanden2/blob/main/img/SoSFoMT.png?raw=true",
     "mainConsole": "Switch",
     "importantCharacters": ["Thomas", "Rick", "Popuri", "Karen", "Elli"],
     "series": {
@@ -149,7 +149,7 @@
     "howManyHoursToBeat": 60,
     "remake": false,
     "releaseDate": "2019-07-26",
-    "ImgUrl": "",
+    "ImgUrl": "https://github.com/LaurenOthmer/ProjectJSONBestanden2/blob/main/img/3Houses.png?raw=true",
     "mainConsole": "Switch",
     "importantCharacters": ["Ferdinand Von Aegir", "Edelgard von Hresvelg", "Byleth", "Bernadetta von Varley", "Rhea"],
     "series": {
@@ -167,7 +167,7 @@
     "howManyHoursToBeat": 70,
     "remake": false,
     "releaseDate": "2020-03-20",
-    "ImgUrl": "",
+    "ImgUrl": "https://github.com/LaurenOthmer/ProjectJSONBestanden2/blob/main/img/ACNH.png?raw=true",
     "mainConsole": "Switch",
     "importantCharacters": ["Tom Nook", "Isabelle", "Timmy", "Tommy", "Mabel", "Sabel", "Gulliver"],
     "series": {
